@@ -31,7 +31,7 @@
     npm start
     ```
 
-2. The server will start on http://localhost:3000. Use an API client like Insomnia to test the API routes.
+2. Use an API client like Insomnia to test the API routes.
 
 ## Database Models
 
